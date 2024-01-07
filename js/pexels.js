@@ -1,5 +1,5 @@
 //use the apikey you have generated
-const apikey = "7rxxPBRm3iKAocSoChFsxptMreoTZMiY8yFrkBaluCqhNFFcL5wxNxtE"; 
+const apikey = "<API KEY>"; 
 ////////////////////////////////////////////////////////////////////////////
 const input = document.querySelector("input");
 const search_btn = document.querySelector(".search_btn");
