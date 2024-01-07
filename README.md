@@ -5,7 +5,7 @@ Otherwise
 ### Preview
 <details>
   <summary>Show image</summary>
-  <img src="assets/Preview.jpeg">
+  <img src="assets/Preview2.jpeg">
 </details>
 
 
