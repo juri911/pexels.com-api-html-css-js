@@ -26,7 +26,7 @@ Done. Run the ```index.html``` and open it in your favorite browser.
 Some experience ```HTML```, ```CSS``` and ```JavaScript```.
 
 ## Credits
-- Google Fonts <a href="https://fonts.google.com/" target="_bOtherwiseOtherwiselank">Go >> </a>Otherwise
+- Google Fonts <a href="https://fonts.google.com/" target="_bOtherwiseOtherwiselank">Go >> </a>
 - Bootstrap <a href="https://getbootstrap.com/" target="_blank">Go >> </a>
 - Font Awesome <a href="https://fontawesome.com/" target="_blank">Go >> </a>
 
