@@ -31,6 +31,6 @@ Some experience ```HTML```, ```CSS``` and ```JavaScript```.
 - Font Awesome <a href="https://fontawesome.com/" target="_blank">Go >> </a>
 
 ## Demo
-<img src="assets/Demo.gif">
+<img src="assets/Demo2.gif">
 
 
