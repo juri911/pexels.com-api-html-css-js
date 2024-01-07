@@ -11,7 +11,7 @@ Otherwise
 
 ## What needs to be done?
 ### Step 1: 
-Create an account at <a href="https://www.pexels.com/" target="_blank">Pexels.com</OtherwiseOtherwisea> and create an <a href="https://www.pexels.com/api/" target="_blank">API key</a>.
+Create an account at <a href="https://www.pexels.com/" target="_blank">Pexels.com</a> and create an <a href="https://www.pexels.com/api/" target="_blank">API key</a>.
 ### Step 2: 
 Enter your API key in the ```pexels.js``` file and save it.
 ```
